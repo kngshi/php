@@ -1,0 +1,20 @@
+* {
+    line-height: 1;
+}
+
+.number__child {
+    padding-left: 40px;
+}
+
+
+.number__child {
+    color:blue;
+}
+
+.number__parent:nth-of-type(3n) {
+    color:red;
+}
+
+.number__child:first-of-type{
+    color:black;
+}
